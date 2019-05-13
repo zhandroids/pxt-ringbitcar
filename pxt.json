@@ -1,11 +1,10 @@
 {
     "name": "RingbitCar",
     "version": "2.1.1",
-    "description": "ELECFREAKS ring:bit car",
+    "description": "米+盒子",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "NeoPixel": "github:microsoft/pxt-neopixel"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -19,6 +18,5 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true,
-    "installedVersion": "github:elecfreaks/pxt-ringbitcar#v2.1.0"
+    "public": true
 }
